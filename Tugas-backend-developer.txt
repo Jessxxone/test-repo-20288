@@ -1,0 +1,5 @@
+Tugas utama backend developer:
+-Membangun API (Application Programming Interface): API adalah "jembatan" yang memungkinkan aplikasi berkomunikasi dengan backend.
+-Membuat dan mengelola database: Backend menyimpan data aplikasi, seperti profil pengguna, produk, dan pesanan.
+-Menulis kode server-side: Kode ini menangani permintaan dari pengguna, memproses data, dan menghasilkan respons.
+-Memastikan keamanan dan skalabilitas aplikasi: Backend harus aman dari peretasan dan mampu menangani traffic yang tinggi.
